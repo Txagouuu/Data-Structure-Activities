@@ -1,13 +1,13 @@
 # 📚 Repositório de Atividades - Estrutura de Dados
 
 ## 📖 Sobre este Repositório
-Este repositório centraliza todos os códigos, projetos, trabalhos e Estudos Independentes (EIs) desenvolvidos durante a disciplina de **Estrutura de Dados** do curso de Engenharia de Software (Módulo: Cloud Based Softwares) da UNIJUÍ. 
+Este repositório centraliza todos os códigos, projetos, trabalhos e Estudos Independentes (EIs) desenvolvidos durante a disciplina de **Estrutura de Dados** do curso de Engenharia de Software da UNIJUÍ. 
 
 O objetivo das atividades aqui contidas é aplicar princípios do pensamento computacional, entender o gerenciamento de memória e desenvolver soluções algorítmicas eficientes, identificando as estruturas mais adequadas para diferentes contextos de problemas computacionais.
 
 ## 🗂️ Organização do Repositório (Conteúdo Programático)
 
-O repositório está dividido conforme as unidades de estudo e avaliações da disciplina:
+O repositório será dividido conforme as unidades de estudo e avaliações da disciplina:
 
 ### 📌 Unidade 1: Estruturas Lineares
 * **Fundamentos:** Tipos primitivos, vetores, matrizes, registros (Structs), Tipos Abstratos de Dados (TADs) e processamento de cadeias.
@@ -25,8 +25,8 @@ O repositório está dividido conforme as unidades de estudo e avaliações da d
 * **Grafos:** Representações (matriz e lista de adjacência) e percursos (BFS e DFS).
 * **Técnicas de Projeto de Algoritmos:** Força Bruta, Pesquisa Exaustiva, Algoritmo Guloso, Dividir e Conquistar, Backtracking e Heurísticas.
 
-### 📝 Estudos Independentes (EIs)[cite: 1]
-Pasta dedicada às 20 horas de atividades autônomas formativas[cite: 1]:
+### 📝 Estudos Independentes (EIs)
+Pasta dedicada às 20 horas de atividades autônomas formativas:
 * `EI_01/`: Estruturas Fundamentais, TADs e Processamento de Cadeias.
 * `EI_02/`: Gerenciamento de Memória e Implementação de Estrutura Linear.
 * `EI_03/`: Algoritmos de Busca, Ordenação e Análise de Desempenho.
@@ -37,4 +37,4 @@ Pasta dedicada às 20 horas de atividades autônomas formativas[cite: 1]:
 
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone [https://github.com/SeuUsuario/seu-repositorio.git](https://github.com/SeuUsuario/seu-repositorio.git)
+   git clone [https://github.com/Txagouuu/Data-Structure-Activities.git](https://github.com/Txagouuu/Data-Structure-Activities.git)
