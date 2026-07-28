@@ -1,20 +1,20 @@
 # RELATÓRIO DE ATIVIDADE PRÁTICA / ESTUDO INDEPENDENTE
 
 **Disciplina:** Estrutura de Dados  
-**Estudante(s):** [Tiago Andrei de Almeida Mendonça]  
-**Atividade:** [Atividade Diagnóstica - Jogo da Velha]  
-**Data de Entrega:** [27/07/2026]  
+**Estudante(s):**  Tiago Andrei de Almeida Mendonça   
+**Atividade:**  Atividade Diagnóstica - Jogo da Velha   
+**Data de Entrega:**  27/07/2026   
 
 ---
 
 ## 1. Descrição da Solução
 
-[Escreva sua descrição aqui. Ex: "Desenvolvimento de um Jogo da Velha básico utilizando matrizes 3x3 em Python, com jogadas aleatórias do computador e validação de coordenadas."]
+ "Desenvolvimento de um Jogo da Velha básico utilizando matrizes 3x3 em Python, com jogadas aleatórias do computador e validação de coordenadas." 
 
 ## 2. Instruções de Compilação e Execução
 
-* **Linguagem / Ambiente:** [Ex: Python 3.10]
-* **Como executar:** [Ex: "Abra o terminal na pasta do arquivo e digite `python jogo_da_velha.py`. O programa rodará diretamente no console."]
+* **Linguagem / Ambiente:** Python 3.14 
+* **Como executar:**  Abra o terminal na pasta do arquivo e digite `python jogo_da_velha.py`. O programa rodará diretamente no console.
 
 
 ### 3. Respostas às Questões para Reflexão
@@ -26,7 +26,7 @@
    Foi utilizado o caractere de espaço em branco (`' '`).
 
 3. **Como foi realizado o sorteio de quem começa?**
-   O sorteio foi realizado utilizando a biblioteca padrão de aleatoriedade (em Python, a função `random.choice(['X', 'O'])`). Essa função escolhe pseudoaleatoriamente um dos elementos fornecidos, garantindo $50\%$ de probabilidade para cada participante iniciar a partida.
+   O sorteio foi realizado utilizando a biblioteca padrão de aleatoriedade (em Python, a função `random.choice( 'X', 'O' )`). Essa função escolhe pseudoaleatoriamente um dos elementos fornecidos, garantindo $50\%$ de probabilidade para cada participante iniciar a partida.
 
 4. **Como o computador garante que não jogará em uma posição ocupada?**
    O computador utiliza uma estrutura de repetição (`while`). Ele sorteia aleatoriamente as coordenadas de linha e coluna; em seguida, chama a função `posicaoVazia` para verificar se a célula sorteada contém o caractere vazio (`' '`). Se a posição estiver ocupada, a condição falha e o laço repete o sorteio até encontrar e preencher uma posição livre.
