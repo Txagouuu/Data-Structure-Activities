@@ -1,9 +1,8 @@
 # RELATÓRIO DE ATIVIDADE PRÁTICA / ESTUDO INDEPENDENTE
 
 **Disciplina:** Estrutura de Dados  
-**Estudante(s):** [Seu Nome Completo]  
-**Atividade:** Implementação e Análise de Desempenho de Algoritmo de Ordenação  
-**Data de Entrega:** [DD/MM/AAAA]  
+**Estudante(s):** Tiago Andrei de almeida Mendonça  
+**Atividade:** Implementação e Análise de Desempenho de Algoritmo de Ordenação   
 
 ---
 
